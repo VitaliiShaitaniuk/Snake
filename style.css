@@ -1,0 +1,15 @@
+canvas {
+    display: block;
+    margin: 0 auto;
+}
+
+button {
+    position: absolute;
+    font-size: 30px;
+    top: 25px;
+    left: 790px;
+    border-radius: 8px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: green;
+}
+
